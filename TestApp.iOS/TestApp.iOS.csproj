@@ -135,7 +135,7 @@
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
   </ItemGroup>
-  <Import Project="/Library/Frameworks/Xamarin.iOS.framework/Versions/15.99.0.464/lib/msbuild/iOS/Xamarin.iOS.CSharp.targets" />
+  <Import Project="/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/msbuild/iOS/Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\TestApp\TestApp.csproj">
       <Project>{2F96D6B8-5022-497C-B7BC-B4BB52A8CEC5}</Project>
